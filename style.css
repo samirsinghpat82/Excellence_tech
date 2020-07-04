@@ -1,0 +1,74 @@
+#demo
+{
+  float: left;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+h3
+{
+    line-height: 1.5rem;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+font-weight: bold;
+
+    color:#3f3f44;
+}
+h2
+{
+    text-align: center;
+    color: coral;
+}
+.navbar
+{
+    color: #3f3f44;
+}
+
+
+.heading
+{
+    text-align: center;
+}
+.card
+{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.cardp
+{
+    margin:auto;
+    
+}
+
+.icon
+{
+   
+   margin-top:3%;
+    margin-left: 25%;
+    color:white;
+    margin-bottom: 10%;
+   
+}
+.container-fluid
+{
+    background-color:#242b34;
+    
+}
+.social-contacts
+{
+    color:white;
+    margin-left:45%;
+    margin-top: 5%;
+}
+.link
+{
+    color: white;
+    margin-top: 5%;
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .social-contacts {
+      margin:2%;
+    }
+  }
